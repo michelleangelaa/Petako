@@ -1,4 +1,4 @@
-# petako
+# Petako
 An entree for Creative Software Idea Competition 2k21 held by School of Computer Science Binus University
 
 Petako berasal dari kata peta dan ku, serta petakku, sebagai aplikasi yang menampilkan petak toko dalam peta. Petako membantu belanja offline sekaligus menjaga prokes dengan digital marketing sehingga mendorong perekonomian di pasar dan pujasera. Keunggulan yang Petako tawarkan adalah fitur denah sehingga belanja menjadi terarah, efisien, dan efektif sambil menjalankan prokes. Selain itu, terdapat fitur search, etalase, bulletin, dan related articles. Kini, belanja offline dilengkapi dengan fasilitas online. Petako, guides your new normal shopping!
