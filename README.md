@@ -4,7 +4,7 @@ An entree for Creative Software Idea Competition 2k21 held by School of Computer
 Petako berasal dari kata peta dan ku, serta petakku, sebagai aplikasi yang menampilkan petak toko dalam peta. Petako membantu belanja offline sekaligus menjaga prokes dengan digital marketing sehingga mendorong perekonomian di pasar dan pujasera. Keunggulan yang Petako tawarkan adalah fitur denah sehingga belanja menjadi terarah, efisien, dan efektif sambil menjalankan prokes. Selain itu, terdapat fitur search, etalase, bulletin, dan related articles. Kini, belanja offline dilengkapi dengan fasilitas online. Petako, guides your new normal shopping!
 
 
-#Caption
+#Caption\n
 Bosan kan kalau belanja online terus?🛍️ Terkadang, barang  yang datang tidak sesuai dengan ekspektasi. Apalagi produk-produk segar kewajiban keluarga🥬🍎
 
 Ibu kangen kan belanja dan makan di pasar? 
